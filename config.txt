@@ -23,5 +23,5 @@
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
 "note_ch": "楠方有佳人，皓想留此地",
 # 金句英文
-"note_en": "Looking foeword to the south,I want to stay"
+"note_en": ""
 }
